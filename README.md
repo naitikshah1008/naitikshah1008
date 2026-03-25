@@ -1,6 +1,6 @@
 # Naitik Shah - Software Engineer
 
-MS Computer Science @ Oregon State University (GPA 3.82) · Graduating March 2026  
+MS Computer Science, Oregon State University (GPA 3.82) · March 2026  
 Experience building backend systems, APIs, and distributed applications using Java, Python, and cloud technologies.
 
 ---
