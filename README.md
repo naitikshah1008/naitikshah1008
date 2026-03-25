@@ -1,41 +1,60 @@
-# Naitik Shah - Software Engineer
+<h1 align="center">Naitik Shah</h1>
+<p align="center">
+  Software Engineer · Backend & Distributed Systems
+</p>
 
-MS Computer Science, Oregon State University (GPA 3.82) · March 2026  
-Experience building backend systems, APIs, and distributed applications using Java, Python, and cloud technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems;Working+with+real-time+data+and+APIs;Focused+on+performance+and+reliability" />
+</p>
 
 ---
 
-## What I Work On
+## What I Solve
 
-I work on backend systems and data-driven applications where performance, reliability, and scalability matter.
+I build backend systems where performance and reliability matter.
 
-At Hexaware, I built microservices using Java and Spring Boot, optimized APIs and database queries, and reduced system latency by 30% under production load.
+- Design APIs and services that handle real-world production workflows  
+- Work with distributed systems and streaming pipelines (Kafka)  
+- Improve performance, reduce failures, and make systems more stable  
 
-At Oregon State University, I develop backend services and workflows using Apex and LWC, improving system stability and reducing failures by 40% through better async processing and validation.
+---
 
-I’ve also built systems involving real-time data processing and AI-based workflows, focusing on practical engineering and production-level design.
+## Systems I've Built
+
+### Backend Systems (Production)
+
+- Built microservices using **Java + Spring Boot**, improving API latency by **30%**
+- Designed async workflows and validation pipelines reducing failures by **40%**
+- Worked on data-heavy systems with structured processing and high-volume transactions  
+
+---
+
+### Real-Time & Data Systems
+
+- Developed streaming pipelines using **Kafka + PyFlink**
+- Implemented anomaly detection using **EWMA and statistical methods**
+- Designed systems for low-latency processing and real-time insights  
+
+---
+
+### AI-Driven Workflows
+
+- Built an AI-based scheduling system using **LLMs + FastAPI**
+- Designed modular architecture for inference and workflow execution  
+- Integrated external APIs (Google Calendar) with secure OAuth  
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-Java · Python · JavaScript · TypeScript · Go · SQL  
-
-**Backend & Systems**  
-Spring Boot · REST APIs · Microservices · FastAPI · Node.js · Distributed Systems  
-
-**Data & Streaming**  
-Kafka · PyFlink · Data Processing · ETL · Redis  
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB · TimescaleDB  
-
-**Cloud & DevOps**  
-AWS · Docker · Kubernetes · Jenkins · GitHub Actions · Linux  
-
-**Frontend**  
-React · Angular · HTML · CSS  
+```text
+Backend:      Java, Spring Boot, REST APIs, Microservices
+Data:         Kafka, PyFlink, ETL, Redis
+Databases:    PostgreSQL, MySQL, MongoDB, TimescaleDB
+Frontend:     React, Angular, TypeScript
+Cloud/DevOps: AWS, Docker, Kubernetes, Jenkins, Linux
+Languages:    Java, Python, JavaScript, Go, SQL
+```
 
 ---
 
