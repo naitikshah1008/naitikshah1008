@@ -47,7 +47,6 @@ Kafka · PyFlink · PostgreSQL · Docker
 Built a distributed system to process and analyze streaming system metrics in real time.  
 Implemented anomaly detection (EWMA, z-score) and enabled low-latency querying with scalable data pipelines.
 
----
 
 ### CalSync AI - Smart Scheduling System  
 Go · Python · FastAPI · Docker · LLM  
