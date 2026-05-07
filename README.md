@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Designing+REST+APIs+and+data+pipelines;Working+with+real-time+systems+and+AI+workflows;Focused+on+performance%2C+debugging%2C+and+production+reliability" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+reliable+backend+systems;Designing+REST+APIs+and+data+pipelines;Working+with+real-time+systems+and+AI+workflows;Focused+on+performance%2C+debugging%2C+and+production+reliability" />
 </p>
 
 ---
