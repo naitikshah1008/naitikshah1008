@@ -1,90 +1,88 @@
 <h1 align="center">Naitik Shah</h1>
+
 <p align="center">
-  Software Engineer · Backend & Distributed Systems
+  Software Engineer · Backend Systems · Full-Stack Products · AI Workflows
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems;Working+with+real-time+data+and+APIs;Focused+on+performance+and+reliability" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Designing+REST+APIs+and+data+pipelines;Working+with+real-time+systems+and+AI+workflows;Focused+on+performance%2C+debugging%2C+and+production+reliability" />
 </p>
 
 ---
 
-## What I Solve
+## What I Build
 
-I build backend systems where performance and reliability matter.
+I build backend and full-stack systems where reliability, performance, and clear user workflows matter.
 
-- Design APIs and services that handle real-world production workflows  
-- Work with distributed systems and streaming pipelines (Kafka)  
-- Improve performance, reduce failures, and make systems more stable  
-
----
-
-## Systems I've Built
-
-### Backend Systems (Production)
-
-- Built microservices using **Java + Spring Boot**, improving API latency by **30%**
-- Designed async workflows and validation pipelines reducing failures by **40%**
-- Worked on data-heavy systems with structured processing and high-volume transactions  
+- Design REST APIs, services, and data workflows for production-facing applications
+- Build full-stack features using Java, Spring Boot, React, Angular, Apex, and LWC
+- Work with Kafka, Redis, PostgreSQL, Docker, CI/CD, and monitoring pipelines
+- Improve system performance, reduce failures, and make high-volume workflows easier to maintain
 
 ---
 
-### Real-Time & Data Systems
+## Engineering Experience
 
-- Developed streaming pipelines using **Kafka + PyFlink**
-- Implemented anomaly detection using **EWMA and statistical methods**
-- Designed systems for low-latency processing and real-time insights  
+### Oregon State University - Software Developer
+
+- Engineered backend services and REST APIs using **Salesforce Apex** and **Lightning Web Components**
+- Supported multi-participant intake workflows handling **1K+ records per transaction**
+- Built bulk-safe validation and async processing flows, reducing retries and governor-limit failures by **40%**
+- Resolved SOQL, heap, and workflow issues, reducing recurring production incidents by **30%**
+
+### Hexaware Technologies - Full Stack Developer
+
+- Built customer onboarding and profile-management features using **Java, Spring Boot, Hibernate, Angular, and REST APIs**
+- Designed Controller-Service-DAO layers with reusable business logic and request validation
+- Improved API latency by **35%** using Redis caching, query optimization, batching, and connection pooling
+- Maintained **95% unit test coverage** with JUnit and Mockito across backend services
 
 ---
 
-### AI-Driven Workflows
+## Featured Projects
 
-- Built an AI-based scheduling system using **LLMs + FastAPI**
-- Designed modular architecture for inference and workflow execution  
-- Integrated external APIs (Google Calendar) with secure OAuth  
+### Live Sports Intelligence  
+Spring Boot · React · Kafka · PostgreSQL · OpenCV · FFmpeg
+
+Built a real-time sports video intelligence system that detects scoreboard changes, processes live event streams, and generates highlight clips from sports footage.
+
+- Designed Kafka-based event pipelines for real-time score and event processing
+- Built Spring Boot APIs and PostgreSQL storage for structured highlight records
+- Created a React dashboard for viewing events, generated clips, and system output
+- Used OpenCV, FFmpeg, and custom digit classification for video-based event detection
+
+---
+
+### CalSync AI - AI-Powered Smart Scheduling System  
+Go · Python · FastAPI · Docker · LLM · OAuth2
+
+Built an AI-assisted scheduling system that converts user goals into structured plans and calendar-ready tasks.
+
+- Designed a Go backend with a FastAPI orchestration layer for workflow execution
+- Integrated LLM workflows to generate structured schedules from natural-language input
+- Added OAuth2-based calendar integration and validation logic for conflict-free planning
+- Dockerized the system for repeatable local development and service iteration
+
+---
+
+### Real-Time System Monitoring  
+Python · PostgreSQL · Docker · Prometheus · Grafana · CI/CD
+
+Built a production-style monitoring dashboard for logs, metrics, alerts, and service health signals.
+
+- Modeled PostgreSQL schemas for incident history, metrics, and performance trends
+- Built dashboards to detect latency spikes, failed jobs, and backend reliability issues
+- Added Dockerized setup and CI/CD-ready checks for repeatable deployment workflows
 
 ---
 
 ## Tech Stack
 
 ```text
-Backend:      Java, Spring Boot, REST APIs, Microservices
-Data:         Kafka, PyFlink, ETL, Redis
-Databases:    PostgreSQL, MySQL, MongoDB, TimescaleDB
-Frontend:     React, Angular, TypeScript
-Cloud/DevOps: AWS, Docker, Kubernetes, Jenkins, Linux
-Languages:    Java, Python, JavaScript, Go, SQL
-```
-
----
-
-## Featured Projects
-
-### Real-Time System Monitoring  
-Kafka · PyFlink · PostgreSQL · Docker  
-
-Built a distributed system to process and analyze streaming system metrics in real time.  
-Implemented anomaly detection (EWMA, z-score) and enabled low-latency querying with scalable data pipelines.
-
-
-### CalSync AI - Smart Scheduling System  
-Go · Python · FastAPI · Docker · LLM  
-
-Developed an AI-based system that generates structured schedules from user inputs and integrates with Google Calendar APIs.  
-Designed a modular architecture with backend services and an LLM orchestration layer for real-time decision workflows.
-
----
-
-## By The Numbers
-
-- Reduced system failures by **40%** through async processing and validation improvements  
-- Improved API performance and latency by **30%** in production systems  
-- Built systems handling **high-volume workflows and real-time data processing**  
-
----
-
-## Connect
-
-📫 naitikshah1812@gmail.com  
-🔗 https://www.linkedin.com/in/naitik1008  
-💻 https://github.com/naitikshah1008
+Languages:        Java, Python, Go, SQL, JavaScript, TypeScript
+Backend:          Spring Boot, Hibernate/JPA, REST APIs, Microservices, Apex
+Frontend:         React, Angular, Lightning Web Components, HTML/CSS
+Data Systems:     PostgreSQL, MySQL, MongoDB, Redis, Kafka, ETL
+Cloud/DevOps:     AWS, Docker, Kubernetes, CI/CD, Jenkins, Git
+Practices:        OOP, Data Structures, Algorithms, Testing, Debugging, Monitoring
+AI Workflows:     LLM APIs, FastAPI orchestration, AI-assisted automation
