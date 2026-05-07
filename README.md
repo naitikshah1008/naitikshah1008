@@ -86,3 +86,26 @@ Data Systems:     PostgreSQL, MySQL, MongoDB, Redis, Kafka, ETL
 Cloud/DevOps:     AWS, Docker, Kubernetes, CI/CD, Jenkins, Git
 Practices:        OOP, Data Structures, Algorithms, Testing, Debugging, Monitoring
 AI Workflows:     LLM APIs, FastAPI orchestration, AI-assisted automation
+```
+## By The Numbers
+
+- Reduced governor-limit failures and job retries by **40%**
+- Improved API latency by **35%** under production workloads
+- Reduced recurring production incidents by **30%**
+- Maintained **95% unit test coverage** across backend services
+- Built workflows supporting **1K+ records per transaction** and **10K+ record datasets**
+
+---
+
+## What I’m Focused On
+
+I’m currently focused on backend engineering, distributed systems, full-stack product development, and AI-assisted workflows. I like building systems that are practical, testable, and easy to explain from API design to database behavior to production debugging.
+
+---
+
+## Connect
+
+📫 **Email:** [naitikshah1812@gmail.com](mailto:naitikshah1812@gmail.com)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/naitik1008](https://www.linkedin.com/in/naitik1008)  
+💻 **GitHub:** [https://github.com/naitikshah1008](https://github.com/naitikshah1008)  
+🌐 **Portfolio:** [https://my-portfolio-khaki-eight-80.vercel.app](https://my-portfolio-khaki-eight-80.vercel.app)
