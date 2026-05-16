@@ -107,5 +107,4 @@ I’m currently focused on backend engineering, distributed systems, full-stack 
 
 📫 **Email:** [naitikshah1812@gmail.com](mailto:naitikshah1812@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/naitik1008](https://www.linkedin.com/in/naitik1008)  
-💻 **GitHub:** [https://github.com/naitikshah1008](https://github.com/naitikshah1008)  
 🌐 **Portfolio:** [https://my-portfolio-khaki-eight-80.vercel.app](https://my-portfolio-khaki-eight-80.vercel.app)
