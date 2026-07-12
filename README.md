@@ -45,7 +45,10 @@ Delivery             CI/CD · Code Reviews · Testing · Production Support
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,js,ts,react,angular,spring,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,js,ts,react,angular,spring,postgres,mysql,mongodb,redis,kafka,docker,kubernetes" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
 </p>
 
 <p align="center">
