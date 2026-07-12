@@ -35,9 +35,9 @@ My work spans **REST APIs, service layers, data workflows, dashboards, internal 
 ```text
 Backend Systems      APIs · Services · Microservices · Data Workflows
 Frontend Products    React · Angular · LWC · Dashboards · Clean UX
-Reliability          Debugging · Testing · Monitoring · Performance Tuning
+Data & Performance   PostgreSQL · Redis · Kafka · Query Tuning
 AI Workflows         LLM APIs · FastAPI · Structured Automation
-Delivery             CI/CD · Code Reviews · Documentation · Production Support
+Delivery             CI/CD · Code Reviews · Testing · Production Support
 ```
 
 ---
@@ -62,10 +62,10 @@ Delivery             CI/CD · Code Reviews · Documentation · Production Suppor
 ### What I Optimize For
 
 ```text
-Reliability       fewer incidents, safer releases, clearer debugging paths
-Performance       faster APIs through caching, SQL tuning, and better data access
-Quality           tested, reviewable code with strong validation and clean handoffs
-Maintainability   simple service boundaries, readable workflows, and useful documentation
+Ship clearly        readable code, clean handoffs, and practical documentation
+Scale carefully     efficient data access, caching, batching, and safer releases
+Debug deeply        logs, traces, root-cause analysis, and measurable fixes
+Build responsibly   simple abstractions, strong validation, and maintainable systems
 ```
 
 ---
