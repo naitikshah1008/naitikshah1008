@@ -59,14 +59,14 @@ Delivery             CI/CD · Code Reviews · Documentation · Production Suppor
 
 ---
 
-### Impact
+### What I Optimize For
 
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20Latency-35%25%20Lower-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Test%20Coverage-95%25-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incidents-30%25%20Fewer-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Workflow%20Retries-40%25%20Lower-8B5CF6?style=for-the-badge" />
-</p>
+```text
+Reliability       fewer incidents, safer releases, clearer debugging paths
+Performance       faster APIs through caching, SQL tuning, and better data access
+Quality           tested, reviewable code with strong validation and clean handoffs
+Maintainability   simple service boundaries, readable workflows, and useful documentation
+```
 
 ---
 
